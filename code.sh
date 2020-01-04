@@ -7,6 +7,17 @@ clear
 apt update
 clear
 pip install lolcat
+clear
+
+echo"
+#############################################
+#                                           #
+#               JOKER HACKER                #
+#           This Script Was Made By JOKER   #
+#############################################
+"
+
+
 printf "Type your name:  "
 read uname
 echo "This is your name: $uname"
